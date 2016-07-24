@@ -1,0 +1,27 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,font{padding:0; margin: 0;
+    font-family: "Microsoft YaHei",arial,"\7039\5b29\7d8b" !important;
+     }
+.mt{margin-top:10px}
+table{ border-collapse:collapse; border-spacing:0; width:100%;}
+fieldset,img{ border:0; vertical-align:top;}
+h1,h2,h3,h4,h5,h6 {font-weight:normal; font-size:100%;}
+ol,ul,li,dl,dt,dd{ list-style:none;}
+input,button,textarea,checkbox,select,radio,form{ vertical-align: top;}
+a{ color:#000; text-decoration:none;}
+a:link,a:visited{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+.red,.red a{ color:#e70000;}
+.left{ float:left;}
+.right{ float:right;}
+.autohei{ overflow:hidden; zoom:1;}
+.clear{ font-size:0; line-height:0; clear:both; overflow:hidden; zoom:1;}
+.blank{ height:10px; font-size:0; line-height:0; clear:both; overflow:hidden;}
+.blank15{ height:15px; font-size:0; line-height:0; clear:both; overflow:hidden;}
+.auto{width:1000px;margin:0 auto;overflow:hidden;}
+em,i{font-style: normal}
+font{font-size:12px;}
+.br{border:1px solid #ccc;}
+.abc{padding:0 10px}
+.fl{float:left}
+.fr{float:right}
+strong,b{font-weight:normal}
